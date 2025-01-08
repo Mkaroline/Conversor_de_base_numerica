@@ -1,6 +1,5 @@
 # Conversor_de_base_numerica
 
-Descrição: 
 O projeto tem como objetivo desenvolver uma aplicação que realize a conversão de bases numéricas, permitindo a transformação de números entre diferentes sistemas de numeração, como binário, decimal, octal e hexadecimal.
 
 Essa ferramenta será útil para estudantes, programadores que gostam de trabalhar com números em diferentes representações.

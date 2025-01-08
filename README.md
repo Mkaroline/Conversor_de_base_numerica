@@ -7,6 +7,7 @@ Essa ferramenta será útil para estudantes, programadores que gostam de trabalh
 Principais Funcionalidades :
 
 Conversão entre bases numéricas: binário, decimal, octal e hexadecimal.
+
 Interface intuitiva para entrada e exibição dos resultados.
 Validação de dados para garantir entradas válidas.
 Suporte a números fracionários (opcional).
@@ -17,7 +18,6 @@ Facilitar o aprendizado e a manipulação de sistemas de numeração e de fácil
 Tecnologias Utilizadas :
 [Python]
 
-Aplicações :
 Esse projeto poderá ser aplicado em contextos educacionais, desenvolvimento de software, estudos de sistemas digitais e outros cenários onde a manipulação de bases numéricas seja necessária.
 
 
